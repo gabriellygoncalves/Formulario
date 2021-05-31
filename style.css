@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin-top: 6%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    margin: 10px;
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.row{
+    width: 700px;
+}
+
+#send{
+    left: 69%;
+}
+
+/*START BUTTON*/
+form .btn-send {
+    display: block;
+    min-width: 200px;
+    border: none;
+    background-color: #4ca189;
+    color: white;
+    border-radius: 25px;
+    margin: auto;
+    padding: 7px;
+  }
+  
+/*END BUTTON*/
